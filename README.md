@@ -34,6 +34,10 @@ O objetivo deste projeto é implementar o algoritmo da mochila (Knapsack Problem
 2. execute `npm install` para instalar as dependências.
 3. execute `npm start` para iniciar o servidor de desenvolvimento.
 
+### Vídeo Apresentação
+
+[https://www.youtube.com/watch?v=xyrWtStBDSM](https://www.youtube.com/watch?v=xyrWtStBDSM)
+
 ## Uso
 - Acesse a página em `localhost:3000`.
 - Preencha os campos com os valores desejados.
